@@ -1,6 +1,5 @@
 import streamlit as st
 st.image("1781361807389_100.jpeg")
-
 st.title("Ứng dụng tính Thuế Thu nhập cá nhân - Ngọc Trinh")
 
 # Nhập dữ liệu
